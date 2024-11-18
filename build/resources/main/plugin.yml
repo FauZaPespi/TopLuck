@@ -1,0 +1,8 @@
+name: LunityCraft_TopLuck
+version: '1.0-SNAPSHOT'
+main: fr.lunitycraft.fauza.lunitycraft_topluck.LunityCraft_TopLuck
+authors: [FauZaPespi]
+commands:
+  topluck:
+    description: Opens the Top Luck GUI for a specified player.
+    permission: LunityCraft.topluck
